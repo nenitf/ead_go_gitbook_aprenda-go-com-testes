@@ -7,6 +7,11 @@ go test ./folder
 
 # todos testes
 #go test ./...
+
+# go test -bench="."
+# go test -bench="./folder"
+
+# go test -cover ./folder
 ```
 
 ## Notes
